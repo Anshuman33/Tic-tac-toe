@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A 2-player Tic-Tac-Toe game built using python and tkinter
+Tic-tac-toe is a 2-player game built using python and tkinter
